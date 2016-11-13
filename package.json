@@ -1,0 +1,26 @@
+{
+  "name": "wordpress-deleted-posts",
+  "description": "",
+  "main": "deleted-posts.php",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-wp-i18n": "^0.5.4",
+    "grunt-wp-readme-to-markdown": "^0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfefferle/wordpress-webmention.git"
+  },
+  "keywords": [
+    "webmention",
+    "pingback",
+    "trackback",
+    "linkback"
+  ],
+  "author": "Matthias Pfefferle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indiewordpress/wordpress-deleted-posts/issues"
+  },
+  "homepage": "https://github.com/indiewordpress/wordpress-deleted-posts"
+}
