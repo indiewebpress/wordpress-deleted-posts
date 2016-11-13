@@ -11,10 +11,10 @@ module.exports = function(grunt) {
     makepot: {
       target: {
         options: {
-          mainFile: 'webmention.php',
+          mainFile: 'deleted-posts.php',
           domainPath: '/languages',
           exclude: ['bin/.*', '.git/.*', 'vendor/.*'],
-          potFilename: 'wordpress-webmention.pot',
+          potFilename: 'wordpress-deleted-posts.pot',
           type: 'wp-plugin',
           updateTimestamp: true
         }
