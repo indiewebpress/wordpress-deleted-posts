@@ -14,7 +14,7 @@ module.exports = function(grunt) {
           mainFile: 'deleted-posts.php',
           domainPath: '/languages',
           exclude: ['bin/.*', '.git/.*', 'vendor/.*'],
-          potFilename: 'wordpress-deleted-posts.pot',
+          potFilename: 'deleted-posts.pot',
           type: 'wp-plugin',
           updateTimestamp: true
         }

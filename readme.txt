@@ -8,4 +8,4 @@ Stable tag: 1.0.0
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
-Deleted Posts for WordPress!
+Sends a HTTP 410 (Gone) response to requests for trashed posts/pages.

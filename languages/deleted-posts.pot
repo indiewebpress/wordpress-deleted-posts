@@ -1,24 +1,28 @@
-# Copyright (C) 2016 IndieWordPress Team
+# Copyright (C) 2017 IndieWordPress Team
 # This file is distributed under the MIT.
 msgid ""
 msgstr ""
 "Project-Id-Version: Deleted Posts 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/deleted-posts\n"
-"POT-Creation-Date: 2016-11-13 20:53:32+00:00\n"
+"POT-Creation-Date: 2017-03-05 21:42:24+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "X-Generator: grunt-wp-i18n 0.5.4\n"
 
-#. Description of the plugin/theme
+#. Plugin Name of the plugin/theme
 msgid "Deleted Posts"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
 msgid "https://github.com/indiewordpress/wordpress-deleted-posts"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sends a HTTP 410 (Gone) response to requests for trashed posts/pages."
 msgstr ""
 
 #. Author of the plugin/theme
